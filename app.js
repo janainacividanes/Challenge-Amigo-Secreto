@@ -22,9 +22,21 @@ function atualizarLista() {
     lista.innerHTML = "";
 
     for (const amigo of amigos) {
-        const item = document.createElement('li');
+        let item = document.createElement('li');
         item.textContent = amigo;
         lista.appendChild(item);
+    }
+}
+
+function sortearAmigo() {
+        if (amigos.length === 0) {
+        alert ("A lista de amigos está vazia!")
+    } else {
+        let indiceSorteio = Math.floor(Math.random() * amigos.length);
+        let amigoSorteado = amigos[indiceSorteio];
+        let resultado = document.getElementById('resultado');
+        resultado.innerHTML = amigoSorteado;
+
     }
 }
 
