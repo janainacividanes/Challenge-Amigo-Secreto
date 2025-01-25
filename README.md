@@ -14,6 +14,8 @@ Este é um aplicativo simples para sortear amigos para brincadeiras de **Amigo S
 
 ## 🚀 Demonstração
 
+Link de acesso: https://challenge-amigo-secreto-delta.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/850afca2-eea1-4faf-a3f6-4d2fae87a7e8)
 
 
