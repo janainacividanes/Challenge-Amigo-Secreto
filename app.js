@@ -36,7 +36,8 @@ function sortearAmigo() {
         let amigoSorteado = amigos[indiceSorteio];
         let resultado = document.getElementById('resultado');
         resultado.innerHTML = amigoSorteado;
-
+        amigos.splice(indiceSorteio, 1);
+        atualizarLista();
     }
 }
 
