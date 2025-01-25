@@ -1,11 +1,25 @@
-# Amigo Secreto
+# 🎉 Projeto Amigo Secreto
 
-Projeto desenvolvido no curso Iniciante em Programação da Alura.
+Este é um aplicativo simples para sortear amigos para brincadeiras de **Amigo Secreto**. Você pode adicionar os nomes de seus amigos, sortear um nome aleatório e remover automaticamente o amigo sorteado da lista.
 
-Tem como objetivo a prática da lógica de programação com a linguagem Javascript.
+---
 
-# :hammer: Instruções
+## 📋 Funcionalidades
+- Adicionar nomes à lista de participantes.
+- Exibir dinamicamente os nomes adicionados.
+- Sortear um amigo aleatório da lista.
+- Remover automaticamente o nome do amigo sorteado da lista.
 
-Informar os nomes dos participantes do amigo secreto na caixa de texto e adicionar a lista.
+---
 
-Após todos adicionados, clicar no botão "Sortear amigo" para que o nome sorteado apareça na tela.
+## 🚀 Demonstração
+
+![image](https://github.com/user-attachments/assets/850afca2-eea1-4faf-a3f6-4d2fae87a7e8)
+
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML5:** Estrutura da aplicação.
+- **CSS3:** Estilização da interface.
+- **JavaScript:** Lógica para manipulação dos dados e interação.
